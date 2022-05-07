@@ -13,11 +13,9 @@ With the use of Handlebars, and Sequalize, this application is a Model-View-Cont
 
 ## Installation:
 
-npm install
+npm install all needed dependencies, then run local host. 
 
 ## Usage:
-
-With the use of Insomnia, I am able to test specific routes to multiple endpoints after running "npm start" in my root directory.
 
 
 
